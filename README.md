@@ -1,7 +1,9 @@
 <div align="center">
 <a name="readme-top"></a>
 
-Like this project? Consider supporting it by checking out our new O'Reilly book [LLMs: The Hard Parts](https://a.co/d/04ZCeM2b).
+Like this project? Consider supporting it by checking out our new O'Reilly book 
+
+[LLMs: The Hard Parts](https://a.co/d/04ZCeM2b).
 
 <a href="https://trendshift.io/repositories/12965" target="_blank"><img src="https://trendshift.io/api/badge/repositories/12965" alt="Podcastfy.ai | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
